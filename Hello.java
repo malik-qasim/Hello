@@ -2,6 +2,6 @@
 public class Hello{
 
 	public static void main(String[] args){
-		System.out.println("Hello DevOps BCS-7B Class")
+		System.out.println("Hello DevOps BCS-7A Class");
 	}
 };
